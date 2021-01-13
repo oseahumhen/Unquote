@@ -1,7 +1,8 @@
 # Weekend Projects Series: Unquote Quiz Game
 
 A simple quiz game where users have to tell who said a particular quote.
-<img src="unquote_screenshot.png" width="50" height="50">
+
+<img src="unquote_screenshot.png" alt="Screenshot of Unquote Game" width="200" height="400"/>
 
 
 ## Further Improvements To Make
